@@ -64,3 +64,5 @@ I will consider hosting more feeds in the future. Email me or submit an issue if
 - https://rsshub.app/36kr/motif/327686782977 -> https://Jarredbaade.github.io/RSS-GPT/36kr-ai.xml
 - https://rsshub.app/paulgraham/articles -> https://Jarredbaade.github.io/RSS-GPT/paul-graham.xml
 - https://nesslabs.com/feed -> https://Jarredbaade.github.io/RSS-GPT/ness-labs.xml
+- https://hellogithub.com/rss -> https://Jarredbaade.github.io/RSS-GPT/Hello Github.xml
+- https://quail.ink/op7418/feed/atom -> https://Jarredbaade.github.io/RSS-GPT/AIGC.xml

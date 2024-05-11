@@ -1,0 +1,7 @@
+------------------------------------------------------
+Started: 2024-05-11 13:11:45.989139
+Existing_entries: 0
+Fetching from https://hellogithub.com/rss
+Feed error: document declared as us-ascii, but parsed as utf-8
+append_entries: 0
+Finish: 2024-05-11 13:11:47.375966
